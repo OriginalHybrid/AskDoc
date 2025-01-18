@@ -57,3 +57,16 @@ To use Hugging Face models, an authentication token (`HF_TOKEN`) is required. Th
 ![Reference Questions](images/1%20(5).png)
 
 ![Reference Questions 2](images/1%20(6).png)
+
+
+## Instructions to Run
+
+```
+pip install -r requirements.txt
+```
+
+Add Huggingface Token to the .env file
+
+```
+streamlit run chat.py
+```
