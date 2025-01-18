@@ -1,7 +1,7 @@
 
-# Project AskDoc: Interactive PDF Query Tool
+# Project AskDoc: Interactive PDF Query Tool leveraging RAGs using Langchain
 
-AskDoc is a Streamlit-based application designed to enable users to upload PDF files and interactively query their content. It leverages local LLM 'Llama-3.2-1B-Instruct' and FAISS vector storage to provide accurate answers to user queries, making document analysis intuitive and efficient.
+AskDoc is a Streamlit-based application designed to enable users to upload PDF files and interactively query their content. It leverages creating a RAG using Langchain with local LLM 'Llama-3.2-1B-Instruct' and FAISS vector storage to provide accurate answers to user queries, making document analysis intuitive and efficient.
 
 ## Features
 
